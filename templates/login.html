@@ -1,0 +1,27 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="/static/style.css">
+    <title>States and Flowers - login page</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Please login</h1>
+      <br>
+      <form action="" method="post">
+        <input type="text" placeholder="Username" name="username" value="{{
+          request.form.username }}">
+         <input type="password" placeholder="Password" name="password" value="{{
+          request.form.password }}">
+        <input class="btn btn-default" type="submit" value="Login">
+      </form>
+      {% if error %}
+        <p class="error"><strong>Error:</strong> {{ error }}
+      {% endif %}
+    </div>
+  <footer>
+    <p>Author:<img src="/static\imagetwo.png"></p>
+    <p><a href="mailto:kyle.johnson@faculty.umgc.edu">kyle.johnson@faculty.umgc.edu</a></p>
+    <p><h3>Click <a href=/><button>here</button></a> to Return Home</h3></p>
+</footer>
+</body>
+</html>

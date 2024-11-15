@@ -1,0 +1,12 @@
+1. - .... .. ... / ... -.. . ...- / ...-- ----- ----- / -.-. .-.. .- ... 
+... / .... .- ... / ... --- -- . / ... - .-. .- -. --. . / .-. . --.-
+..- . ... - ... .-.-.-
+	Morse Code: THIS/ SDEV/ 300/ CLASS/ HAS/ SOME/ STRANGE/ REQUESTS.
+2. U28gdGhpcyBpcyBiYXNlNjQuIE5vdyBJIGtub3cu
+	Base64: So this is base64. Now I know
+3.  --- Psuwb Ysm ----
+W oa gc qzsjsf. Bc cbs qcizr dcggwpzm twuifs hvwg cih. 
+--- Sbr Ysm ---
+	Caesarian Shift N=12: --- Begin Key ----
+I am so clever. No one could possibly figure this out.
+--- End Key ---

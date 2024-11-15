@@ -1,0 +1,38 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 5%;
+}
+.center2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+body {
+    text-align: left;
+    color: Black;
+    background-color: whitesmoke
+}
+h1 {
+    text-align: center;
+    color: lime;
+    background-color: whitesmoke
+}
+h2 {
+    text-align: center;
+    color: darkorange;
+    background-color: whitesmoke
+}
+h3 {
+    text-align: center;
+    color: maroon;
+    background-color: whitesmoke
+}
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: SlateBlue;
+    color: LightGray;
+    }
